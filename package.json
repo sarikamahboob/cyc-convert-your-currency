@@ -1,0 +1,26 @@
+{
+  "name": "cyc-convert-your-currency",
+  "version": "1.0.0",
+  "description": "An npm package to convert your desirable currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarikamahboob/cyc-convert-your-currency.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "sarika",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sarikamahboob/cyc-convert-your-currency/issues"
+  },
+  "homepage": "https://github.com/sarikamahboob/cyc-convert-your-currency#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
